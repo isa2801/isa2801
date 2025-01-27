@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Estoy aprendiendo sobre programación
-- ⚡ Fun fact: Me encanta descubrir nuevas cosas
+##- 🌱 Estoy aprendiendo sobre programación
+##- ⚡ Fun fact: Me encanta descubrir nuevas cosas
 -->
